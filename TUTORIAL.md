@@ -68,7 +68,7 @@ diff before re-running with `dry_run: false`.
 ## Template drift
 
 `automation-template-sync-check.yml` runs weekly, diffs this repo against the
-upstream [Brewtality-3-16](https://github.com/TheTatu13/Brewtality-3-16)
+upstream [Brewtality-3-16](https://github.com/peviitor-scrapers/Brewtality-3-16)
 template's `scraper-py/`, and opens an issue if the generic files
 (`self_healing.py`, `validate.py`, `fetch.py`, `api.py`, …) have drifted from
 the template in a way that looks unintentional.

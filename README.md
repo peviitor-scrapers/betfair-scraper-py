@@ -7,7 +7,7 @@ BeautifulSoup (no browser), validates the company via ANAF, and keeps the
 peviitor listing in sync (new jobs added, existing ones updated, jobs no
 longer on the site removed).
 
-Derived from the [Brewtality-3-16](https://github.com/TheTatu13/Brewtality-3-16)
+Derived from the [Brewtality-3-16](https://github.com/peviitor-scrapers/Brewtality-3-16)
 Python template — see [`ai/AGENTS.md`](ai/AGENTS.md) and
 [`ai/SELF-HEALING.md`](ai/SELF-HEALING.md) for how the scraping engine works.
 

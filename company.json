@@ -71,7 +71,7 @@
       "https://www.betfairromania.ro/jobs"
     ],
     "lastScraped": "2026-10-02",
-    "scraperFile": "https://github.com/TheTatu13/betfair-scraper-py/actions/workflows/scrape.yml",
+    "scraperFile": "https://github.com/peviitor-scrapers/betfair-scraper-py/actions/workflows/scrape.yml",
     "_version_": 1877937093834964992,
     "_root_": "22201773"
   },

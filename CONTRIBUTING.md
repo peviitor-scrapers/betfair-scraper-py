@@ -11,7 +11,7 @@ pytest -q
 
 ## Reporting Issues
 
-Open a [GitHub Issue](https://github.com/TheTatu13/betfair-scraper-py/issues) with:
+Open a [GitHub Issue](https://github.com/peviitor-scrapers/betfair-scraper-py/issues) with:
 - Clear description of the problem
 - Steps to reproduce
 - Expected vs actual behavior

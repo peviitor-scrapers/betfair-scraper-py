@@ -12,6 +12,6 @@
   "career": [
     "https://www.betfairromania.ro/jobs"
   ],
-  "scraperFile": "https://github.com/TheTatu13/betfair-scraper-py/actions/workflows/scrape.yml",
+  "scraperFile": "https://github.com/peviitor-scrapers/betfair-scraper-py/actions/workflows/scrape.yml",
   "ownJobUrlPrefix": "https://www.betfairromania.ro/jobs/"
 }
