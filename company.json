@@ -1,5 +1,5 @@
 {
-  "validatedAt": "2026-10-03T10:42:45.193187+00:00",
+  "validatedAt": "2026-10-04T11:23:36.528059+00:00",
   "source": "ANAF",
   "brand": "Betfair",
   "anaf": {
@@ -70,9 +70,9 @@
     "career": [
       "https://www.betfairromania.ro/jobs"
     ],
-    "lastScraped": "2026-10-02",
-    "scraperFile": "https://github.com/peviitor-scrapers/betfair-scraper-py/actions/workflows/scrape.yml",
-    "_version_": 1877937093834964992,
+    "lastScraped": "2026-10-03",
+    "scraperFile": "https://github.com/TheTatu13/betfair-scraper-py/actions/workflows/scrape.yml",
+    "_version_": 1878024955237498880,
     "_root_": "22201773"
   },
   "summary": {
