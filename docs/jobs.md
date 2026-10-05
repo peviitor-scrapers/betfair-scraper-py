@@ -10,11 +10,18 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, BLD. 21 DECEMBRIE 1989, NR.77, CLĂDIRILE A-F. ET.4 |
 | Website | [https://www.betfairromania.ro](https://www.betfairromania.ro) |
 | Careers | [https://www.betfairromania.ro/jobs](https://www.betfairromania.ro/jobs) |
-| Last Scraped | 2026-10-04 |
+| Last Scraped | 2026-10-05 |
 
 ## Current Job Listings (18)
 
-_Generated: 2026-10-04T11:23:45.218388+00:00_
+_Generated: 2026-10-05T12:47:26.028478+00:00_
+
+### Cloud Engineer - Flutter Functions, Hybrid & Remote
+
+- **URL:** [https://www.betfairromania.ro/jobs/jr140567/cloud-engineer-flutter-functions-hybrid-remote/](https://www.betfairromania.ro/jobs/jr140567/cloud-engineer-flutter-functions-hybrid-remote/)
+- **Work Mode:** on-site
+- **Location:** Cluj-Napoca
+- **Status:** scraped
 
 ### Senior Platform Engineering Manager - FanDuel, Hybrid & Remote
 
@@ -47,13 +54,6 @@ _Generated: 2026-10-04T11:23:45.218388+00:00_
 ### Senior Data Engineer - Flutter Studios, Hybrid & Remote
 
 - **URL:** [https://www.betfairromania.ro/jobs/jr141106/senior-data-engineer-flutter-studios-hybrid-remote/](https://www.betfairromania.ro/jobs/jr141106/senior-data-engineer-flutter-studios-hybrid-remote/)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### Cloud Engineer - Flutter Functions, Hybrid & Remote
-
-- **URL:** [https://www.betfairromania.ro/jobs/jr140567/cloud-engineer-flutter-functions-hybrid-remote/](https://www.betfairromania.ro/jobs/jr140567/cloud-engineer-flutter-functions-hybrid-remote/)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Status:** scraped
