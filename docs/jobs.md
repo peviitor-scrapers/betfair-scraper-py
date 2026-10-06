@@ -10,15 +10,22 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, BLD. 21 DECEMBRIE 1989, NR.77, CLĂDIRILE A-F. ET.4 |
 | Website | [https://www.betfairromania.ro](https://www.betfairromania.ro) |
 | Careers | [https://www.betfairromania.ro/jobs](https://www.betfairromania.ro/jobs) |
-| Last Scraped | 2026-10-05 |
+| Last Scraped | 2026-10-06 |
 
-## Current Job Listings (18)
+## Current Job Listings (19)
 
-_Generated: 2026-10-05T12:47:26.028478+00:00_
+_Generated: 2026-10-06T12:17:27.109840+00:00_
 
 ### Cloud Engineer - Flutter Functions, Hybrid & Remote
 
 - **URL:** [https://www.betfairromania.ro/jobs/jr140567/cloud-engineer-flutter-functions-hybrid-remote/](https://www.betfairromania.ro/jobs/jr140567/cloud-engineer-flutter-functions-hybrid-remote/)
+- **Work Mode:** on-site
+- **Location:** Cluj-Napoca
+- **Status:** scraped
+
+### Associate Data Operations Engineer - FanDuel, Hybrid
+
+- **URL:** [https://www.betfairromania.ro/jobs/jr141667/associate-data-operations-engineer-fanduel-hybrid/](https://www.betfairromania.ro/jobs/jr141667/associate-data-operations-engineer-fanduel-hybrid/)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Status:** scraped
