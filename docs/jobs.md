@@ -10,11 +10,18 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, BLD. 21 DECEMBRIE 1989, NR.77, CLĂDIRILE A-F. ET.4 |
 | Website | [https://www.betfairromania.ro](https://www.betfairromania.ro) |
 | Careers | [https://www.betfairromania.ro/jobs](https://www.betfairromania.ro/jobs) |
-| Last Scraped | 2026-10-06 |
+| Last Scraped | 2026-10-07 |
 
 ## Current Job Listings (19)
 
-_Generated: 2026-10-06T12:17:27.109840+00:00_
+_Generated: 2026-10-07T12:08:38.019505+00:00_
+
+### Data Engineer - Flutter Functions, Hybrid
+
+- **URL:** [https://www.betfairromania.ro/jobs/jr139663/data-engineer-flutter-functions-hybrid/](https://www.betfairromania.ro/jobs/jr139663/data-engineer-flutter-functions-hybrid/)
+- **Work Mode:** on-site
+- **Location:** Cluj-Napoca
+- **Status:** scraped
 
 ### Cloud Engineer - Flutter Functions, Hybrid & Remote
 
@@ -96,13 +103,6 @@ _Generated: 2026-10-06T12:17:27.109840+00:00_
 ### Senior Cyber Controls Engineer - Flutter UKI, Hybrid & Remote
 
 - **URL:** [https://www.betfairromania.ro/jobs/jr138629/senior-cyber-controls-engineer-flutter-uki-hybrid-remote/](https://www.betfairromania.ro/jobs/jr138629/senior-cyber-controls-engineer-flutter-uki-hybrid-remote/)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### Data Engineer - Flutter Functions, Hybrid & Remote
-
-- **URL:** [https://www.betfairromania.ro/jobs/jr139663/data-engineer-flutter-functions-hybrid-remote/](https://www.betfairromania.ro/jobs/jr139663/data-engineer-flutter-functions-hybrid-remote/)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Status:** scraped
