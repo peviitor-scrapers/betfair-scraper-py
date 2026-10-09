@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, BLD. 21 DECEMBRIE 1989, NR.77, CLĂDIRILE A-F. ET.4 |
 | Website | [https://www.betfairromania.ro](https://www.betfairromania.ro) |
 | Careers | [https://www.betfairromania.ro/jobs](https://www.betfairromania.ro/jobs) |
-| Last Scraped | 2026-10-08 |
+| Last Scraped | 2026-10-09 |
 
-## Current Job Listings (19)
+## Current Job Listings (17)
 
-_Generated: 2026-10-08T12:19:13.313782+00:00_
+_Generated: 2026-10-09T12:09:48.487788+00:00_
 
 ### Data Engineer - Flutter Functions, Hybrid
 
@@ -54,20 +54,6 @@ _Generated: 2026-10-08T12:19:13.313782+00:00_
 ### HR Operations Partner (in-country Cluj) - Flutter Functions (12 months), Hybrid
 
 - **URL:** [https://www.betfairromania.ro/jobs/jr141352/hr-operations-partner-in-country-cluj-flutter-functions-12-months-hybrid/](https://www.betfairromania.ro/jobs/jr141352/hr-operations-partner-in-country-cluj-flutter-functions-12-months-hybrid/)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### Software Developer - Flutter Studios, Hybrid
-
-- **URL:** [https://www.betfairromania.ro/jobs/jr140897/software-developer-flutter-studios-hybrid/](https://www.betfairromania.ro/jobs/jr140897/software-developer-flutter-studios-hybrid/)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### Senior Data Engineer - Flutter Studios, Hybrid & Remote
-
-- **URL:** [https://www.betfairromania.ro/jobs/jr141106/senior-data-engineer-flutter-studios-hybrid-remote/](https://www.betfairromania.ro/jobs/jr141106/senior-data-engineer-flutter-studios-hybrid-remote/)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Status:** scraped
