@@ -10,22 +10,29 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, BLD. 21 DECEMBRIE 1989, NR.77, CLĂDIRILE A-F. ET.4 |
 | Website | [https://www.betfairromania.ro](https://www.betfairromania.ro) |
 | Careers | [https://www.betfairromania.ro/jobs](https://www.betfairromania.ro/jobs) |
-| Last Scraped | 2026-10-15 |
+| Last Scraped | 2026-10-16 |
 
-## Current Job Listings (18)
+## Current Job Listings (19)
 
-_Generated: 2026-10-15T10:26:12.437097+00:00_
-
-### Lead Legal Counsel - Flutter Functions, Hybrid
-
-- **URL:** [https://www.betfairromania.ro/jobs/jr141837/lead-legal-counsel-flutter-functions-hybrid/](https://www.betfairromania.ro/jobs/jr141837/lead-legal-counsel-flutter-functions-hybrid/)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Status:** scraped
+_Generated: 2026-10-16T10:13:22.458757+00:00_
 
 ### HR Risk & Compliance Manager
 
 - **URL:** [https://www.betfairromania.ro/jobs/jr141385/hr-risk-compliance-manager/](https://www.betfairromania.ro/jobs/jr141385/hr-risk-compliance-manager/)
+- **Work Mode:** on-site
+- **Location:** Cluj-Napoca
+- **Status:** scraped
+
+### Senior Data Engineer - Sportsbet, Hybrid
+
+- **URL:** [https://www.betfairromania.ro/jobs/jr141858/senior-data-engineer-sportsbet-hybrid/](https://www.betfairromania.ro/jobs/jr141858/senior-data-engineer-sportsbet-hybrid/)
+- **Work Mode:** on-site
+- **Location:** Cluj-Napoca
+- **Status:** scraped
+
+### Lead Legal Counsel - Flutter Functions, Hybrid
+
+- **URL:** [https://www.betfairromania.ro/jobs/jr141837/lead-legal-counsel-flutter-functions-hybrid/](https://www.betfairromania.ro/jobs/jr141837/lead-legal-counsel-flutter-functions-hybrid/)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Status:** scraped
