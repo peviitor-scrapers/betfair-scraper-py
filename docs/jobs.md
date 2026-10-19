@@ -10,11 +10,18 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, BLD. 21 DECEMBRIE 1989, NR.77, CLĂDIRILE A-F. ET.4 |
 | Website | [https://www.betfairromania.ro](https://www.betfairromania.ro) |
 | Careers | [https://www.betfairromania.ro/jobs](https://www.betfairromania.ro/jobs) |
-| Last Scraped | 2026-10-18 |
+| Last Scraped | 2026-10-19 |
 
 ## Current Job Listings (19)
 
-_Generated: 2026-10-18T09:59:33.599023+00:00_
+_Generated: 2026-10-19T11:21:44.224048+00:00_
+
+### Senior Incident Responder, Cyber Security - Flutter Functions, Hybrid & Remote
+
+- **URL:** [https://www.betfairromania.ro/jobs/jr141356/senior-incident-responder-cyber-security-flutter-functions-hybrid-remote/](https://www.betfairromania.ro/jobs/jr141356/senior-incident-responder-cyber-security-flutter-functions-hybrid-remote/)
+- **Work Mode:** on-site
+- **Location:** Cluj-Napoca
+- **Status:** scraped
 
 ### HR Risk & Compliance Manager
 
@@ -103,13 +110,6 @@ _Generated: 2026-10-18T09:59:33.599023+00:00_
 ### Data Engineer - Sportsbet (12 months), Hybrid
 
 - **URL:** [https://www.betfairromania.ro/jobs/jr140975/data-engineer-sportsbet-12-months-hybrid/](https://www.betfairromania.ro/jobs/jr140975/data-engineer-sportsbet-12-months-hybrid/)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### Senior Cyber Controls Engineer - Flutter UKI, Hybrid & Remote
-
-- **URL:** [https://www.betfairromania.ro/jobs/jr138629/senior-cyber-controls-engineer-flutter-uki-hybrid-remote/](https://www.betfairromania.ro/jobs/jr138629/senior-cyber-controls-engineer-flutter-uki-hybrid-remote/)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Status:** scraped
