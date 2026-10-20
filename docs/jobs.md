@@ -10,11 +10,18 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, BLD. 21 DECEMBRIE 1989, NR.77, CLĂDIRILE A-F. ET.4 |
 | Website | [https://www.betfairromania.ro](https://www.betfairromania.ro) |
 | Careers | [https://www.betfairromania.ro/jobs](https://www.betfairromania.ro/jobs) |
-| Last Scraped | 2026-10-19 |
+| Last Scraped | 2026-10-20 |
 
-## Current Job Listings (19)
+## Current Job Listings (17)
 
-_Generated: 2026-10-19T11:21:44.224048+00:00_
+_Generated: 2026-10-20T10:30:11.806756+00:00_
+
+### Senior Data Engineer - Sportsbet, Hybrid
+
+- **URL:** [https://www.betfairromania.ro/jobs/jr141858/senior-data-engineer-sportsbet-hybrid/](https://www.betfairromania.ro/jobs/jr141858/senior-data-engineer-sportsbet-hybrid/)
+- **Work Mode:** on-site
+- **Location:** Cluj-Napoca
+- **Status:** scraped
 
 ### Senior Incident Responder, Cyber Security - Flutter Functions, Hybrid & Remote
 
@@ -26,13 +33,6 @@ _Generated: 2026-10-19T11:21:44.224048+00:00_
 ### HR Risk & Compliance Manager
 
 - **URL:** [https://www.betfairromania.ro/jobs/jr141385/hr-risk-compliance-manager/](https://www.betfairromania.ro/jobs/jr141385/hr-risk-compliance-manager/)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### Senior Data Engineer - Sportsbet, Hybrid
-
-- **URL:** [https://www.betfairromania.ro/jobs/jr141858/senior-data-engineer-sportsbet-hybrid/](https://www.betfairromania.ro/jobs/jr141858/senior-data-engineer-sportsbet-hybrid/)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Status:** scraped
@@ -58,13 +58,6 @@ _Generated: 2026-10-19T11:21:44.224048+00:00_
 - **Location:** Cluj-Napoca
 - **Status:** scraped
 
-### Cloud Engineer - Flutter Functions, Hybrid & Remote
-
-- **URL:** [https://www.betfairromania.ro/jobs/jr140567/cloud-engineer-flutter-functions-hybrid-remote/](https://www.betfairromania.ro/jobs/jr140567/cloud-engineer-flutter-functions-hybrid-remote/)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
 ### Associate Data Operations Engineer - FanDuel, Hybrid
 
 - **URL:** [https://www.betfairromania.ro/jobs/jr141667/associate-data-operations-engineer-fanduel-hybrid/](https://www.betfairromania.ro/jobs/jr141667/associate-data-operations-engineer-fanduel-hybrid/)
@@ -82,13 +75,6 @@ _Generated: 2026-10-19T11:21:44.224048+00:00_
 ### Senior Reliability Engineer - FanDuel, Hybrid & Remote
 
 - **URL:** [https://www.betfairromania.ro/jobs/jr137822/senior-reliability-engineer-fanduel-hybrid-remote/](https://www.betfairromania.ro/jobs/jr137822/senior-reliability-engineer-fanduel-hybrid-remote/)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### Head of Security Operations & Engineering - Flutter Functions, Hybrid
-
-- **URL:** [https://www.betfairromania.ro/jobs/jr133265/head-of-security-operations-engineering-flutter-functions-hybrid/](https://www.betfairromania.ro/jobs/jr133265/head-of-security-operations-engineering-flutter-functions-hybrid/)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Status:** scraped
