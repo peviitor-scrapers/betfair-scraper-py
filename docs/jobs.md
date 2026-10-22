@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, BLD. 21 DECEMBRIE 1989, NR.77, CLĂDIRILE A-F. ET.4 |
 | Website | [https://www.betfairromania.ro](https://www.betfairromania.ro) |
 | Careers | [https://www.betfairromania.ro/jobs](https://www.betfairromania.ro/jobs) |
-| Last Scraped | 2026-10-21 |
+| Last Scraped | 2026-10-22 |
 
-## Current Job Listings (18)
+## Current Job Listings (17)
 
-_Generated: 2026-10-21T10:41:22.603581+00:00_
+_Generated: 2026-10-22T10:43:52.775682+00:00_
 
 ### SOX IT Controls Analyst - Flutter Functions, Hybrid
 
@@ -110,13 +110,6 @@ _Generated: 2026-10-21T10:41:22.603581+00:00_
 ### Principal Data Solution Architect - Flutter Functions, Hybrid
 
 - **URL:** [https://www.betfairromania.ro/jobs/jr139901/principal-data-solution-architect-flutter-functions-hybrid/](https://www.betfairromania.ro/jobs/jr139901/principal-data-solution-architect-flutter-functions-hybrid/)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### Senior Platform Engineer - Flutter Functions (18 months), Hybrid & Remote
-
-- **URL:** [https://www.betfairromania.ro/jobs/jr138847/senior-platform-engineer-flutter-functions-18-months-hybrid-remote/](https://www.betfairromania.ro/jobs/jr138847/senior-platform-engineer-flutter-functions-18-months-hybrid-remote/)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Status:** scraped
