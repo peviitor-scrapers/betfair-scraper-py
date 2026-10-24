@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, BLD. 21 DECEMBRIE 1989, NR.77, CLĂDIRILE A-F. ET.4 |
 | Website | [https://www.betfairromania.ro](https://www.betfairromania.ro) |
 | Careers | [https://www.betfairromania.ro/jobs](https://www.betfairromania.ro/jobs) |
-| Last Scraped | 2026-10-23 |
+| Last Scraped | 2026-10-24 |
 
 ## Current Job Listings (18)
 
-_Generated: 2026-10-23T10:35:31.255980+00:00_
+_Generated: 2026-10-24T09:53:28.849990+00:00_
 
 ### Software Engineer - Flutter Studios, Hybrid
 
