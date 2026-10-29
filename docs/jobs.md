@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, BLD. 21 DECEMBRIE 1989, NR.77, CLĂDIRILE A-F. ET.4 |
 | Website | [https://www.betfairromania.ro](https://www.betfairromania.ro) |
 | Careers | [https://www.betfairromania.ro/jobs](https://www.betfairromania.ro/jobs) |
-| Last Scraped | 2026-10-28 |
+| Last Scraped | 2026-10-29 |
 
 ## Current Job Listings (16)
 
-_Generated: 2026-10-28T11:43:07.499509+00:00_
+_Generated: 2026-10-29T11:51:26.465131+00:00_
 
 ### Software Engineer - Flutter Studios, Hybrid
 
@@ -72,9 +72,9 @@ _Generated: 2026-10-28T11:43:07.499509+00:00_
 - **Location:** Cluj-Napoca
 - **Status:** scraped
 
-### Senior Reliability Engineer - FanDuel, Hybrid & Remote
+### Senior Site Reliability Engineer - FanDuel, Hybrid & Remote
 
-- **URL:** [https://www.betfairromania.ro/jobs/jr137822/senior-reliability-engineer-fanduel-hybrid-remote/](https://www.betfairromania.ro/jobs/jr137822/senior-reliability-engineer-fanduel-hybrid-remote/)
+- **URL:** [https://www.betfairromania.ro/jobs/jr137822/senior-site-reliability-engineer-fanduel-hybrid-remote/](https://www.betfairromania.ro/jobs/jr137822/senior-site-reliability-engineer-fanduel-hybrid-remote/)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Status:** scraped
