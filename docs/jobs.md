@@ -10,11 +10,18 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, BLD. 21 DECEMBRIE 1989, NR.77, CLĂDIRILE A-F. ET.4 |
 | Website | [https://www.betfairromania.ro](https://www.betfairromania.ro) |
 | Careers | [https://www.betfairromania.ro/jobs](https://www.betfairromania.ro/jobs) |
-| Last Scraped | 2026-11-02 |
+| Last Scraped | 2026-11-03 |
 
-## Current Job Listings (15)
+## Current Job Listings (12)
 
-_Generated: 2026-11-02T13:56:49.533743+00:00_
+_Generated: 2026-11-03T13:05:03.033565+00:00_
+
+### Senior Manager Supplier Risk & Incident Management - Flutter Functions, Hybrid
+
+- **URL:** [https://www.betfairromania.ro/jobs/jr141274/senior-manager-supplier-risk-incident-management-flutter-functions-hybrid/](https://www.betfairromania.ro/jobs/jr141274/senior-manager-supplier-risk-incident-management-flutter-functions-hybrid/)
+- **Work Mode:** on-site
+- **Location:** Cluj-Napoca
+- **Status:** scraped
 
 ### Internship Data Engineer - Sportsbet, Hybrid
 
@@ -51,30 +58,9 @@ _Generated: 2026-11-02T13:56:49.533743+00:00_
 - **Location:** Cluj-Napoca
 - **Status:** scraped
 
-### Product Security Engineer - Flutter Functions, Hybrid & Remote
-
-- **URL:** [https://www.betfairromania.ro/jobs/jr139272/product-security-engineer-flutter-functions-hybrid-remote/](https://www.betfairromania.ro/jobs/jr139272/product-security-engineer-flutter-functions-hybrid-remote/)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
 ### Data Engineer - Flutter Functions, Hybrid
 
 - **URL:** [https://www.betfairromania.ro/jobs/jr139663/data-engineer-flutter-functions-hybrid/](https://www.betfairromania.ro/jobs/jr139663/data-engineer-flutter-functions-hybrid/)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### Senior Platform Engineering Manager - FanDuel, Hybrid & Remote
-
-- **URL:** [https://www.betfairromania.ro/jobs/jr137245/senior-platform-engineering-manager-fanduel-hybrid-remote/](https://www.betfairromania.ro/jobs/jr137245/senior-platform-engineering-manager-fanduel-hybrid-remote/)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### Senior Site Reliability Engineer - FanDuel, Hybrid & Remote
-
-- **URL:** [https://www.betfairromania.ro/jobs/jr137822/senior-site-reliability-engineer-fanduel-hybrid-remote/](https://www.betfairromania.ro/jobs/jr137822/senior-site-reliability-engineer-fanduel-hybrid-remote/)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Status:** scraped
@@ -103,13 +89,6 @@ _Generated: 2026-11-02T13:56:49.533743+00:00_
 ### Principal Data Engineer - FanDuel, Hybrid & Remote
 
 - **URL:** [https://www.betfairromania.ro/jobs/jr138906/principal-data-engineer-fanduel-hybrid-remote/](https://www.betfairromania.ro/jobs/jr138906/principal-data-engineer-fanduel-hybrid-remote/)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### Principal Platform Engineer - FanDuel, Hybrid & Remote
-
-- **URL:** [https://www.betfairromania.ro/jobs/jr135840/principal-platform-engineer-fanduel-hybrid-remote/](https://www.betfairromania.ro/jobs/jr135840/principal-platform-engineer-fanduel-hybrid-remote/)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Status:** scraped
