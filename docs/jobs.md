@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, BLD. 21 DECEMBRIE 1989, NR.77, CLĂDIRILE A-F. ET.4 |
 | Website | [https://www.betfairromania.ro](https://www.betfairromania.ro) |
 | Careers | [https://www.betfairromania.ro/jobs](https://www.betfairromania.ro/jobs) |
-| Last Scraped | 2026-11-05 |
+| Last Scraped | 2026-11-06 |
 
 ## Current Job Listings (11)
 
-_Generated: 2026-11-05T13:34:31.457655+00:00_
+_Generated: 2026-11-06T13:18:11.091946+00:00_
 
 ### Senior Manager Supplier Risk & Incident Management - Flutter Functions, Hybrid
 
