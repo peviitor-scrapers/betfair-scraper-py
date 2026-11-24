@@ -10,11 +10,32 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, BLD. 21 DECEMBRIE 1989, NR.77, CLĂDIRILE A-F. ET.4 |
 | Website | [https://www.betfairromania.ro](https://www.betfairromania.ro) |
 | Careers | [https://www.betfairromania.ro/jobs](https://www.betfairromania.ro/jobs) |
-| Last Scraped | 2026-11-10 |
+| Last Scraped | 2026-11-24 |
 
-## Current Job Listings (11)
+## Current Job Listings (12)
 
-_Generated: 2026-11-10T13:50:56.053420+00:00_
+_Generated: 2026-11-24T16:33:38.454135+00:00_
+
+### Internship Gaming Operations Executive - FanDuel, (6 months), Hybrid
+
+- **URL:** [https://www.betfairromania.ro/jobs/jr142496/internship-gaming-operations-executive-fanduel-6-months-hybrid/](https://www.betfairromania.ro/jobs/jr142496/internship-gaming-operations-executive-fanduel-6-months-hybrid/)
+- **Work Mode:** on-site
+- **Location:** Cluj-Napoca
+- **Status:** scraped
+
+### Senior Cyber Controls Engineer - Flutter UKI, Hybrid
+
+- **URL:** [https://www.betfairromania.ro/jobs/jr138629/senior-cyber-controls-engineer-flutter-uki-hybrid/](https://www.betfairromania.ro/jobs/jr138629/senior-cyber-controls-engineer-flutter-uki-hybrid/)
+- **Work Mode:** on-site
+- **Location:** Cluj-Napoca
+- **Status:** scraped
+
+### HR Knowledge & Effectiveness Specialist - Flutter Functions (12 months), Hybrid
+
+- **URL:** [https://www.betfairromania.ro/jobs/jr142416/hr-knowledge-effectiveness-specialist-flutter-functions-12-months-hybrid/](https://www.betfairromania.ro/jobs/jr142416/hr-knowledge-effectiveness-specialist-flutter-functions-12-months-hybrid/)
+- **Work Mode:** on-site
+- **Location:** Cluj-Napoca
+- **Status:** scraped
 
 ### HR Knowledge Specialist - Flutter Functions (12 months), Hybrid
 
@@ -68,20 +89,6 @@ _Generated: 2026-11-10T13:50:56.053420+00:00_
 ### Software Engineer (Full Stack) - Flutter Studios, Hybrid & Remote
 
 - **URL:** [https://www.betfairromania.ro/jobs/jr137686/software-engineer-full-stack-flutter-studios-hybrid-remote/](https://www.betfairromania.ro/jobs/jr137686/software-engineer-full-stack-flutter-studios-hybrid-remote/)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### Data Engineer - Sportsbet (12 months), Hybrid
-
-- **URL:** [https://www.betfairromania.ro/jobs/jr140975/data-engineer-sportsbet-12-months-hybrid/](https://www.betfairromania.ro/jobs/jr140975/data-engineer-sportsbet-12-months-hybrid/)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### Principal Data Solution Architect - Flutter Functions, Hybrid
-
-- **URL:** [https://www.betfairromania.ro/jobs/jr139901/principal-data-solution-architect-flutter-functions-hybrid/](https://www.betfairromania.ro/jobs/jr139901/principal-data-solution-architect-flutter-functions-hybrid/)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Status:** scraped
