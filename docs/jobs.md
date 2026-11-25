@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, BLD. 21 DECEMBRIE 1989, NR.77, CLĂDIRILE A-F. ET.4 |
 | Website | [https://www.betfairromania.ro](https://www.betfairromania.ro) |
 | Careers | [https://www.betfairromania.ro/jobs](https://www.betfairromania.ro/jobs) |
-| Last Scraped | 2026-11-24 |
+| Last Scraped | 2026-11-25 |
 
-## Current Job Listings (12)
+## Current Job Listings (11)
 
-_Generated: 2026-11-24T16:33:38.454135+00:00_
+_Generated: 2026-11-25T16:15:52.056877+00:00_
 
 ### Internship Gaming Operations Executive - FanDuel, (6 months), Hybrid
 
@@ -82,13 +82,6 @@ _Generated: 2026-11-24T16:33:38.454135+00:00_
 ### Data Engineer - Flutter Functions, Hybrid
 
 - **URL:** [https://www.betfairromania.ro/jobs/jr139663/data-engineer-flutter-functions-hybrid/](https://www.betfairromania.ro/jobs/jr139663/data-engineer-flutter-functions-hybrid/)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### Software Engineer (Full Stack) - Flutter Studios, Hybrid & Remote
-
-- **URL:** [https://www.betfairromania.ro/jobs/jr137686/software-engineer-full-stack-flutter-studios-hybrid-remote/](https://www.betfairromania.ro/jobs/jr137686/software-engineer-full-stack-flutter-studios-hybrid-remote/)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Status:** scraped
